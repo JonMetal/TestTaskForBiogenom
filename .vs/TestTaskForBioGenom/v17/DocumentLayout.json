@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Onyx\\TestTaskForBioGenom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8589CA33-3B23-4A56-8E98-94FA98AEA192}|TestTaskForBioGenom\\TestTaskForBioGenom.csproj|c:\\onyx\\testtaskforbiogenom\\testtaskforbiogenom\\controllers\\dietarysupplementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8589CA33-3B23-4A56-8E98-94FA98AEA192}|TestTaskForBioGenom\\TestTaskForBioGenom.csproj|solutionrelative:testtaskforbiogenom\\controllers\\dietarysupplementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8589CA33-3B23-4A56-8E98-94FA98AEA192}|TestTaskForBioGenom\\TestTaskForBioGenom.csproj|c:\\onyx\\testtaskforbiogenom\\testtaskforbiogenom\\controllers\\formscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8589CA33-3B23-4A56-8E98-94FA98AEA192}|TestTaskForBioGenom\\TestTaskForBioGenom.csproj|solutionrelative:testtaskforbiogenom\\controllers\\formscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8589CA33-3B23-4A56-8E98-94FA98AEA192}|TestTaskForBioGenom\\TestTaskForBioGenom.csproj|c:\\onyx\\testtaskforbiogenom\\testtaskforbiogenom\\controllers\\vitaminescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8589CA33-3B23-4A56-8E98-94FA98AEA192}|TestTaskForBioGenom\\TestTaskForBioGenom.csproj|solutionrelative:testtaskforbiogenom\\controllers\\vitaminescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8589CA33-3B23-4A56-8E98-94FA98AEA192}|TestTaskForBioGenom\\TestTaskForBioGenom.csproj|c:\\onyx\\testtaskforbiogenom\\testtaskforbiogenom\\database\\entities\\vitaminesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8589CA33-3B23-4A56-8E98-94FA98AEA192}|TestTaskForBioGenom\\TestTaskForBioGenom.csproj|solutionrelative:testtaskforbiogenom\\database\\entities\\vitaminesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8589CA33-3B23-4A56-8E98-94FA98AEA192}|TestTaskForBioGenom\\TestTaskForBioGenom.csproj|c:\\onyx\\testtaskforbiogenom\\testtaskforbiogenom\\database\\entities\\vitamine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8589CA33-3B23-4A56-8E98-94FA98AEA192}|TestTaskForBioGenom\\TestTaskForBioGenom.csproj|solutionrelative:testtaskforbiogenom\\database\\entities\\vitamine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8589CA33-3B23-4A56-8E98-94FA98AEA192}|TestTaskForBioGenom\\TestTaskForBioGenom.csproj|c:\\onyx\\testtaskforbiogenom\\testtaskforbiogenom\\database\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8589CA33-3B23-4A56-8E98-94FA98AEA192}|TestTaskForBioGenom\\TestTaskForBioGenom.csproj|solutionrelative:testtaskforbiogenom\\database\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8589CA33-3B23-4A56-8E98-94FA98AEA192}|TestTaskForBioGenom\\TestTaskForBioGenom.csproj|c:\\onyx\\testtaskforbiogenom\\testtaskforbiogenom\\database\\entities\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8589CA33-3B23-4A56-8E98-94FA98AEA192}|TestTaskForBioGenom\\TestTaskForBioGenom.csproj|solutionrelative:testtaskforbiogenom\\database\\entities\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8589CA33-3B23-4A56-8E98-94FA98AEA192}|TestTaskForBioGenom\\TestTaskForBioGenom.csproj|c:\\onyx\\testtaskforbiogenom\\testtaskforbiogenom\\database\\entities\\dietarysupplementsvitamine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8589CA33-3B23-4A56-8E98-94FA98AEA192}|TestTaskForBioGenom\\TestTaskForBioGenom.csproj|solutionrelative:testtaskforbiogenom\\database\\entities\\dietarysupplementsvitamine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8589CA33-3B23-4A56-8E98-94FA98AEA192}|TestTaskForBioGenom\\TestTaskForBioGenom.csproj|c:\\onyx\\testtaskforbiogenom\\testtaskforbiogenom\\database\\entities\\dietarysupplement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8589CA33-3B23-4A56-8E98-94FA98AEA192}|TestTaskForBioGenom\\TestTaskForBioGenom.csproj|solutionrelative:testtaskforbiogenom\\database\\entities\\dietarysupplement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8589CA33-3B23-4A56-8E98-94FA98AEA192}|TestTaskForBioGenom\\TestTaskForBioGenom.csproj|c:\\onyx\\testtaskforbiogenom\\testtaskforbiogenom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8589CA33-3B23-4A56-8E98-94FA98AEA192}|TestTaskForBioGenom\\TestTaskForBioGenom.csproj|solutionrelative:testtaskforbiogenom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8589CA33-3B23-4A56-8E98-94FA98AEA192}|TestTaskForBioGenom\\TestTaskForBioGenom.csproj|c:\\onyx\\testtaskforbiogenom\\testtaskforbiogenom\\services\\dietarysupplementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8589CA33-3B23-4A56-8E98-94FA98AEA192}|TestTaskForBioGenom\\TestTaskForBioGenom.csproj|solutionrelative:testtaskforbiogenom\\services\\dietarysupplementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8589CA33-3B23-4A56-8E98-94FA98AEA192}|TestTaskForBioGenom\\TestTaskForBioGenom.csproj|c:\\onyx\\testtaskforbiogenom\\testtaskforbiogenom\\services\\vitamineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8589CA33-3B23-4A56-8E98-94FA98AEA192}|TestTaskForBioGenom\\TestTaskForBioGenom.csproj|solutionrelative:testtaskforbiogenom\\services\\vitamineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8589CA33-3B23-4A56-8E98-94FA98AEA192}|TestTaskForBioGenom\\TestTaskForBioGenom.csproj|c:\\onyx\\testtaskforbiogenom\\testtaskforbiogenom\\services\\ivitamineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8589CA33-3B23-4A56-8E98-94FA98AEA192}|TestTaskForBioGenom\\TestTaskForBioGenom.csproj|solutionrelative:testtaskforbiogenom\\services\\ivitamineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8589CA33-3B23-4A56-8E98-94FA98AEA192}|TestTaskForBioGenom\\TestTaskForBioGenom.csproj|c:\\onyx\\testtaskforbiogenom\\testtaskforbiogenom\\services\\formservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8589CA33-3B23-4A56-8E98-94FA98AEA192}|TestTaskForBioGenom\\TestTaskForBioGenom.csproj|solutionrelative:testtaskforbiogenom\\services\\formservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Onyx\\TestTaskForBioGenom\\TestTaskForBioGenom\\Database\\Entities\\BioGenomDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TestTaskForBioGenom\\Database\\Entities\\BioGenomDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IVitamineService.cs",
+              "DocumentMoniker": "C:\\Onyx\\TestTaskForBioGenom\\TestTaskForBioGenom\\Services\\IVitamineService.cs",
+              "RelativeDocumentMoniker": "TestTaskForBioGenom\\Services\\IVitamineService.cs",
+              "ToolTip": "C:\\Onyx\\TestTaskForBioGenom\\TestTaskForBioGenom\\Services\\IVitamineService.cs",
+              "RelativeToolTip": "TestTaskForBioGenom\\Services\\IVitamineService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T18:23:16.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormsController.cs",
+              "DocumentMoniker": "C:\\Onyx\\TestTaskForBioGenom\\TestTaskForBioGenom\\Controllers\\FormsController.cs",
+              "RelativeDocumentMoniker": "TestTaskForBioGenom\\Controllers\\FormsController.cs",
+              "ToolTip": "C:\\Onyx\\TestTaskForBioGenom\\TestTaskForBioGenom\\Controllers\\FormsController.cs",
+              "RelativeToolTip": "TestTaskForBioGenom\\Controllers\\FormsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T18:18:34.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormService.cs",
+              "DocumentMoniker": "C:\\Onyx\\TestTaskForBioGenom\\TestTaskForBioGenom\\Services\\FormService.cs",
+              "RelativeDocumentMoniker": "TestTaskForBioGenom\\Services\\FormService.cs",
+              "ToolTip": "C:\\Onyx\\TestTaskForBioGenom\\TestTaskForBioGenom\\Services\\FormService.cs",
+              "RelativeToolTip": "TestTaskForBioGenom\\Services\\FormService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T18:15:56.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DietarySupplementsController.cs",
+              "DocumentMoniker": "C:\\Onyx\\TestTaskForBioGenom\\TestTaskForBioGenom\\Controllers\\DietarySupplementsController.cs",
+              "RelativeDocumentMoniker": "TestTaskForBioGenom\\Controllers\\DietarySupplementsController.cs",
+              "ToolTip": "C:\\Onyx\\TestTaskForBioGenom\\TestTaskForBioGenom\\Controllers\\DietarySupplementsController.cs",
+              "RelativeToolTip": "TestTaskForBioGenom\\Controllers\\DietarySupplementsController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T18:02:09.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VitaminesController.cs",
+              "DocumentMoniker": "C:\\Onyx\\TestTaskForBioGenom\\TestTaskForBioGenom\\Controllers\\VitaminesController.cs",
+              "RelativeDocumentMoniker": "TestTaskForBioGenom\\Controllers\\VitaminesController.cs",
+              "ToolTip": "C:\\Onyx\\TestTaskForBioGenom\\TestTaskForBioGenom\\Controllers\\VitaminesController.cs",
+              "RelativeToolTip": "TestTaskForBioGenom\\Controllers\\VitaminesController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T18:01:46.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DietarySupplementService.cs",
+              "DocumentMoniker": "C:\\Onyx\\TestTaskForBioGenom\\TestTaskForBioGenom\\Services\\DietarySupplementService.cs",
+              "RelativeDocumentMoniker": "TestTaskForBioGenom\\Services\\DietarySupplementService.cs",
+              "ToolTip": "C:\\Onyx\\TestTaskForBioGenom\\TestTaskForBioGenom\\Services\\DietarySupplementService.cs",
+              "RelativeToolTip": "TestTaskForBioGenom\\Services\\DietarySupplementService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wB4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T14:24:39.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VitamineService.cs",
+              "DocumentMoniker": "C:\\Onyx\\TestTaskForBioGenom\\TestTaskForBioGenom\\Services\\VitamineService.cs",
+              "RelativeDocumentMoniker": "TestTaskForBioGenom\\Services\\VitamineService.cs",
+              "ToolTip": "C:\\Onyx\\TestTaskForBioGenom\\TestTaskForBioGenom\\Services\\VitamineService.cs",
+              "RelativeToolTip": "TestTaskForBioGenom\\Services\\VitamineService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBgAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T12:48:17.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DietarySupplementsVitamine.cs",
+              "DocumentMoniker": "C:\\Onyx\\TestTaskForBioGenom\\TestTaskForBioGenom\\Database\\Entities\\DietarySupplementsVitamine.cs",
+              "RelativeDocumentMoniker": "TestTaskForBioGenom\\Database\\Entities\\DietarySupplementsVitamine.cs",
+              "ToolTip": "C:\\Onyx\\TestTaskForBioGenom\\TestTaskForBioGenom\\Database\\Entities\\DietarySupplementsVitamine.cs",
+              "RelativeToolTip": "TestTaskForBioGenom\\Database\\Entities\\DietarySupplementsVitamine.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T10:10:34.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vitamine.cs",
+              "DocumentMoniker": "C:\\Onyx\\TestTaskForBioGenom\\TestTaskForBioGenom\\Database\\Entities\\Vitamine.cs",
+              "RelativeDocumentMoniker": "TestTaskForBioGenom\\Database\\Entities\\Vitamine.cs",
+              "ToolTip": "C:\\Onyx\\TestTaskForBioGenom\\TestTaskForBioGenom\\Database\\Entities\\Vitamine.cs",
+              "RelativeToolTip": "TestTaskForBioGenom\\Database\\Entities\\Vitamine.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAxwBEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T10:01:03.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Onyx\\TestTaskForBioGenom\\TestTaskForBioGenom\\Database\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "TestTaskForBioGenom\\Database\\Entities\\User.cs",
+              "ToolTip": "C:\\Onyx\\TestTaskForBioGenom\\TestTaskForBioGenom\\Database\\Entities\\User.cs",
+              "RelativeToolTip": "TestTaskForBioGenom\\Database\\Entities\\User.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T09:54:34.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DietarySupplement.cs",
+              "DocumentMoniker": "C:\\Onyx\\TestTaskForBioGenom\\TestTaskForBioGenom\\Database\\Entities\\DietarySupplement.cs",
+              "RelativeDocumentMoniker": "TestTaskForBioGenom\\Database\\Entities\\DietarySupplement.cs",
+              "ToolTip": "C:\\Onyx\\TestTaskForBioGenom\\TestTaskForBioGenom\\Database\\Entities\\DietarySupplement.cs",
+              "RelativeToolTip": "TestTaskForBioGenom\\Database\\Entities\\DietarySupplement.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T09:51:15.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form.cs",
+              "DocumentMoniker": "C:\\Onyx\\TestTaskForBioGenom\\TestTaskForBioGenom\\Database\\Entities\\Form.cs",
+              "RelativeDocumentMoniker": "TestTaskForBioGenom\\Database\\Entities\\Form.cs",
+              "ToolTip": "C:\\Onyx\\TestTaskForBioGenom\\TestTaskForBioGenom\\Database\\Entities\\Form.cs",
+              "RelativeToolTip": "TestTaskForBioGenom\\Database\\Entities\\Form.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T07:59:51.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VitaminesForm.cs",
+              "DocumentMoniker": "C:\\Onyx\\TestTaskForBioGenom\\TestTaskForBioGenom\\Database\\Entities\\VitaminesForm.cs",
+              "RelativeDocumentMoniker": "TestTaskForBioGenom\\Database\\Entities\\VitaminesForm.cs",
+              "ToolTip": "C:\\Onyx\\TestTaskForBioGenom\\TestTaskForBioGenom\\Database\\Entities\\VitaminesForm.cs",
+              "RelativeToolTip": "TestTaskForBioGenom\\Database\\Entities\\VitaminesForm.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T07:59:45.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BioGenomDbContext.cs",
+              "DocumentMoniker": "C:\\Onyx\\TestTaskForBioGenom\\TestTaskForBioGenom\\Database\\Entities\\BioGenomDbContext.cs",
+              "RelativeDocumentMoniker": "TestTaskForBioGenom\\Database\\Entities\\BioGenomDbContext.cs",
+              "ToolTip": "C:\\Onyx\\TestTaskForBioGenom\\TestTaskForBioGenom\\Database\\Entities\\BioGenomDbContext.cs",
+              "RelativeToolTip": "TestTaskForBioGenom\\Database\\Entities\\BioGenomDbContext.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T07:20:56.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Onyx\\TestTaskForBioGenom\\TestTaskForBioGenom\\Program.cs",
+              "RelativeDocumentMoniker": "TestTaskForBioGenom\\Program.cs",
+              "ToolTip": "C:\\Onyx\\TestTaskForBioGenom\\TestTaskForBioGenom\\Program.cs",
+              "RelativeToolTip": "TestTaskForBioGenom\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T06:53:50.053Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
